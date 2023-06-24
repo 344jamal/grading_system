@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">grading system</string>
+    <string name="enter_marks">Enter Marks</string>
+    <string name="the_grade">The Grade</string>
+</resources>
